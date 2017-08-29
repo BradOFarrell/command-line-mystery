@@ -13,7 +13,7 @@ subl solution.md
 git add solution.md
 git commit -a
 
-# Start reading the instructions
+# Start reading the instructionsg
 less instructions
 
 # Check for clues in the mystery
